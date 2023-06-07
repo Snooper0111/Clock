@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cloc-3e902": {
+      "hosting": {
+        "def-clock": [
+          "cloc-3e902"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cloc-3e902"
+  }
+}
